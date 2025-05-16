@@ -66,9 +66,7 @@ npm install
 npm run dev
 ```
 
-## 🌐 Live Deployment
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e24de7e4-0000-0000-0000-000000000000/deploy-status)](https://fitflexnow.netlify.app/)
+## Live Demo
 
 The FitFlex application is deployed on **Netlify** for public access.
 
