@@ -2,6 +2,12 @@
 
 **FitFlex** is a web-based workout routine generator that dynamically creates personalized strength training plans based on user preferences such as workout type, target muscle groups, and fitness goals.
 
+## Live Site
+
+The FitFlex application is deployed on **Netlify** for public access.
+
+🔗 [https://fitflexnow.netlify.app/](https://fitflexnow.netlify.app/)
+
 ## Features
 
 - **Step-by-step workout customization** – Choose workout type, target muscle groups, and training goal  
@@ -65,9 +71,3 @@ git clone https://github.com/SoumyaGanesh12/FitFlex.git
 npm install
 npm run dev
 ```
-
-## Live Demo
-
-The FitFlex application is deployed on **Netlify** for public access.
-
-🔗 [https://fitflexnow.netlify.app/](https://fitflexnow.netlify.app/)
